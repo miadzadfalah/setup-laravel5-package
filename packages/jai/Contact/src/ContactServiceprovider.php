@@ -8,7 +8,7 @@
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Routing\Router;
 
-class ContactServiceprovider extends ServiceProvider{
+class ContactServiceProvider extends ServiceProvider{
 
 
 	/**
